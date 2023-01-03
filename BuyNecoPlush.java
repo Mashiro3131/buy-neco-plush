@@ -141,11 +141,12 @@ public class BuyNecoPlush {
           }
         }
       }
+      scanner.close();
     }
-        
+      
+    
+    
         // Neco Arc ASCII Art
-
-
   public static void displayNecoArt()
               {
               System.out.println("""
